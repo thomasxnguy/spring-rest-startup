@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dataset>
+    <LINKAGE_TBL
+        ID="-1"
+        PARTITION_KEY="0"
+        PHONE_NUMBER="1234567890"
+    />
+    <LINKAGE_TBL
+        ID="-2"
+        PARTITION_KEY="0"
+        PHONE_NUMBER="1234567890"
+    />
+</dataset>

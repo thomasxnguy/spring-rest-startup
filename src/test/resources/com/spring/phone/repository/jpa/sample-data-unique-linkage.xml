@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dataset>
+    <LINKAGE_TBL
+        ID="-10"
+        PARTITION_KEY="-1"
+        PHONE_NUMBER="1234567890"
+        PHONE_HASH="2dbed70947d2c74ec198f882ad40e9b312a4df3a1fe8dab94dba05123e23d3ca"
+    />
+    <LINKAGE_TBL
+        ID="-2"
+        PARTITION_KEY="0"
+        PHONE_NUMBER="0987654321"
+        PHONE_HASH="d17d339f29a19a237adffe6f55dc400bdfd0a9a972f8e3fd969607cc55bba629"
+    />
+</dataset>
