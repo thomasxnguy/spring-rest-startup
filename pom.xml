@@ -99,7 +99,7 @@
         <dependency>
             <groupId>eu.hinsch</groupId>
             <artifactId>spring-boot-actuator-logview</artifactId>
-            <version>0.2.12</version>
+            <version>0.2.13</version>
         </dependency>
 
         <dependency>
